@@ -1,0 +1,29 @@
+@media all and (max-width: 670px){
+
+  .contents-list{
+    display: none;
+  }
+
+  .tablet{
+    display: block;
+  }
+
+  .title h1{
+    font-size: 25px;
+    border: solid 2.5px;
+  }
+
+.message{
+  font-size: 9px;
+}
+
+  #slideshow{
+    height: 300px;
+    width: 300px;
+  }
+
+  #slideshow img{
+    height: 200px;
+    width: 200px;
+  }
+}
