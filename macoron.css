@@ -62,7 +62,7 @@ footer{
 }
 
 .contents-list{
-  color: gray;
+  color: black;
   cursor: pointer;
 }
 
@@ -71,7 +71,12 @@ footer{
   display: inline-block;
 }
 
-.list:hover{
+.list a{
+  text-decoration: none;
+  color: gray;
+}
+
+.list a:hover{
   color: black;
   border-bottom: solid 1px;
 }
