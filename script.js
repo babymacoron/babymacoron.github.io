@@ -6,7 +6,7 @@ $(function(){
     $(this).children("span").hide();
   });
 
-  $(".menu-icon").click(
+  $(".fa-bars").click(
     function(){
       if($(".tablet-list").hasClass("active")){
         $(".tablet-list").removeClass("active");
