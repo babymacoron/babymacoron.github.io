@@ -8,6 +8,10 @@
     display: block;
   }
 
+  .tablet-list{
+  z-index: 10;
+  }
+  
   .title h1{
     font-size: 25px;
     border: solid 2.5px;
