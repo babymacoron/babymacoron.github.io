@@ -78,7 +78,7 @@ footer{
 
 .list a:hover{
   color: black;
-  border-bottom: solid 1.5px;
+  border-bottom: solid 1px;
 }
 
 .list span{
@@ -128,9 +128,8 @@ footer{
 
 #slideshow {
    position: relative;
-   width:  600px;
    height: 600px;
-   max-width: 50%;
+   width: 600px;
    margin: 0 auto;
    text-align: center;
 }
@@ -140,8 +139,10 @@ footer{
    left:0;
    z-index: 3;
    opacity: 0.0;
-   width: 600px;
    height: 600px;
+   width: 600px;
+   max-height: 100%;
+   max-width: 100%;
    border: solid 3px silver;
 }
 #slideshow img.active {
