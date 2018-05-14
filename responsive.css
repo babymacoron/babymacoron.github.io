@@ -13,6 +13,10 @@
     border: solid 2.5px;
   }
 
+.main{
+  margin-top: 150px;
+}
+
 .message{
   font-size: 9px;
 }
