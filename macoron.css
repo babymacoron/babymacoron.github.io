@@ -132,8 +132,8 @@ footer{
 
 #slideshow {
    position: relative;
-   height: 600px;
-   width: 600px;
+   height: 500px;
+   width: 500px;
    margin: 0 auto;
    text-align: center;
    margin-top: 100px;
@@ -144,8 +144,8 @@ footer{
    left:0;
    z-index: 3;
    opacity: 0.0;
-   height: 600px;
-   width: 600px;
+   height: 500px;
+   width: 500px;
    max-height: 100%;
    max-width: 100%;
    border: solid 3px silver;
