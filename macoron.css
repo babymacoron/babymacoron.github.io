@@ -94,6 +94,7 @@ footer{
   color: black;
   list-style: none;
   text-align: center;
+  border-bottom: solid 1px gray;
 }
 
 .list-2{
