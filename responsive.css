@@ -13,12 +13,12 @@
     border: solid 2.5px;
   }
 
-.main{
-  margin-top: 150px;
+  .main{
+    margin-top: 150px;
 }
 
-.message{
-  font-size: 9px;
+  .message{
+    font-size: 9px;
 }
 
   #slideshow{
@@ -31,13 +31,13 @@
     width: 200px;
     left: 45px;
   }
-  
+
   .event h2{
     font-size: 99%;
   }
 
-.event p{
-  width: 90%;
+  .event p{
+    width: 90%;
 }
-  
+
 }
