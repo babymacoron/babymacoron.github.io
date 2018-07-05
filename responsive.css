@@ -31,4 +31,13 @@
     width: 200px;
     left: 45px;
   }
+  
+  .event h2{
+    font-size: 99%;
+  }
+
+.event p{
+  width: 90%;
+}
+  
 }
